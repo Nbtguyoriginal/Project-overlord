@@ -1,5 +1,8 @@
 ### **Overlord llm Project Document**
-if your interested in this project see:project name - for perspective on board to the team
+if your interested in this project 
+see:https://github.com/Nbtguyoriginal/Sprite.io/tree/main
+
+- for perspective on board to the team
 
 **Project Name:** project Overlord llm
 
